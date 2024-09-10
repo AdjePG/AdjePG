@@ -11,9 +11,11 @@
   <hr/>
 
   <h2>🚧 Projects 🚧</h2>
+  <a href="https://github.com/AdjePG/Portfolio"><img width="275px" src="https://github.com/AdjePG/Portfolio/blob/main/README%20sources/repositoryImage.png"/></a>
   <a href="https://github.com/AdjePG/GPT-Assistant"><img width="275px" src="https://github.com/AdjePG/GPT-Assistant/blob/main/README%20sources/repositoryImage.png"/></a>
   <a href="https://github.com/AdjePG/Entertaining-Media"><img width="275px" src="https://github.com/AdjePG/Entertaining-Media/blob/main/README%20sources/repositoryImage.png"/></a>
   <a href="https://github.com/AdjePG/Notify"><img width="275px" src="https://github.com/AdjePG/Notify/blob/main/repositoryImage.png"/></a>
+
   <br>
   <br>
   <p>And I'm currently developing more ambitious and better projects!</p>
